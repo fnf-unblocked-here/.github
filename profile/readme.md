@@ -5,7 +5,6 @@
 
 <h3><a href="https://gamescentral.net/fnf-music-3d">CLICK TO PLAY FNF</a> </BR> </BR></h3>
 
-
 ✨ Unlock endless rhythm fun with Friday Night Funkin’ Unblocked! 🎮 Play your favorite music game anytime, anywhere 🌍. Conquer exciting battles 🕹️, vibe to incredible beats 🎵, and challenge yourself with increasing difficulty. Are you ready to funk? 🚧🔥"
 
 # FNF Unblocked: No Downloads, Just Rhythmic Fun!
@@ -44,7 +43,7 @@ Getting started with FNF Unblocked is incredibly simple. You don't need any tech
 
 1. **Search for Trusted Platforms:** Open your browser and search for "FNF Unblocked." Make sure to click on trusted sites to avoid any security issues.
 2. **Choose Your Mode:** Numerous platforms provide a variety of game variations, including the classic story mode and the free-play option. Pick the one that suits your vibe.
-3. **Start Playing:** Once the game loads, use your keyboard to match the rhythm and beat your opponent. The controls are straightforward, usually involving the arrow keys or WASD.
+3. **Start Playing:** Once the game loads, use your keyboard to match the rhythm and beat your opponent. The controls are straightforward, usually involving the arrow keys or [WASD](https://github.com/d2phap/ImageGlass/issues/1192).
 
 *That's it! You're all set to enjoy uninterrupted gameplay.*
 
